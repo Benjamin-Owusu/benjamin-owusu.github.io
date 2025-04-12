@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Benjamin K. Owusu
+title: Benjamin  Owusu
 email: Benny.owusuk@gmx.de
 description: >- I am Econ Postdoc. I am interested in applied statistics/econometrics, causal inference and macroeconomics 
 twitter_username: username
-github_username: https://benjamin-owusu.github.io/Benjamin_Owusu/
+github_username: Benjamin-Owusu
 minimal_mistakes_skin: default
 search: true
 
