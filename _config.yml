@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Benjamin  Owusu
 email: Benny.owusuk@gmx.de
-description: >- I am Econ Postdoc. I am interested in applied statistics/econometrics, causal inference and macroeconomics 
+description:  I am Econ Postdoc. I am interested in applied statistics/econometrics, causal inference and macroeconomics 
 twitter_username: username
 github_username: Benjamin-Owusu
 minimal_mistakes_skin: default
