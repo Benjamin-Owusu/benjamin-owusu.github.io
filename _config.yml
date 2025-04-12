@@ -21,6 +21,9 @@ github_username: Benjamin-Owusu
 minimal_mistakes_skin: default
 search: true
 
+url: "https://benjamin-owusu.github.io"
+baseurl: ""  # ← empty because you're using a user/organization site
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
