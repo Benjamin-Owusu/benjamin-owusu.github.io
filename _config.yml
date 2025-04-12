@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Benjamin  Owusu
+title: My Website
 email: Benny.owusuk@gmx.de
 description: "I am Econ Postdoc. I am interested in applied statistics/econometrics, causal inference and macroeconomics" 
 twitter_username: username
@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Benjamin Owusu"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
