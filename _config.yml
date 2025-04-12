@@ -59,9 +59,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "An applied economist with passion for research and data analysis/data science."
   links:
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-     # url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/benjamin-owusu-phd-b6390258/"
