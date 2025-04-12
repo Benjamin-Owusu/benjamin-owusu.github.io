@@ -5,24 +5,15 @@ layout: single
 author_profile: true
 ---
 
-# Benjamin Owusu
+
 
 **Address:** Lerchenstraße 65, 33607 Bielefeld, Germany  
 **Phone:** +49 (0173) 510 3347  
 **Email:** [Benny.owusu@gmx.de](mailto:Benny.owusu@gmx.de)  
-**Links:** [GitHub](#) • [LinkedIn](#) • [Google Scholar](#)
+
 
 ---
 
-## Summary
-
-I am a highly skilled economist and data analyst with a strong background in applied econometrics. Currently a research assistant, I have working experience in both industry and academia.
-
-My expertise spans statistical modeling, causal inference, machine learning, utilizing Python, R, etc. for data analysis and modeling. Additionally, my prior working experience has equipped me with strong analytical and problem-solving skills in business operations.
-
-Passionate about leveraging data-driven insights to address complex economic and business challenges, I am eager and excited to pursue new endeavors.
-
----
 
 ## Work Experience
 
