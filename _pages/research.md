@@ -13,15 +13,15 @@ Here is a selection of my research papers:
 ---
 
 ### European Governments’ Fiscal Behaviour and Public Debt Holders: What Is the Financial Connection?
-P Claeys, B Bökemeier, BK Owusu, J Equiza Goni, A Stoian, M Stierle 
-https://doi.org/10.2765/3778099
+P Claeys, B Bökemeier, **BK Owusu**, J Equiza Goni, A Stoian, M Stierle 
+[Link](https://doi.org/10.2765/3778099)
 
 ---
 
 ### Assessing nonlinearities and heterogeneity in debt sustainability analysis: a panel spline approach  
 **B Owusu**, B Bökemeier, A Greiner  
 *Empirical Economics*, **64**(3), 1315–1346, **2023**  
-
+[link](https://link.springer.com/article/10.1007/s00181-022-02284-8)
 
 
 
