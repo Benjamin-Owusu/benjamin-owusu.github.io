@@ -40,7 +40,7 @@ A Greiner, **B Owusu**
 
 ---
 
-[**Effects of the vaccination against SARS-CoV-2 on infections and on hospitalizations in European countries**]https://link.springer.com/article/10.1007/s43546-023-00445-0)
+[**Effects of the vaccination against SARS-CoV-2 on infections and on hospitalizations in European countries**](https://link.springer.com/article/10.1007/s43546-023-00445-0)
 A Greiner, **B Owusu**  
 *SN Business & Economics*, **3**(3), 67*, **2023** 
 
