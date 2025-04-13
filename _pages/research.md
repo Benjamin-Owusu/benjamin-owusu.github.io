@@ -12,9 +12,9 @@ Here is a selection of my research papers:
 
 ---
 
-### European Governments’ Fiscal Behaviour and Public Debt Holders: What Is the Financial Connection?  
+### [European Governments’ Fiscal Behaviour and Public Debt Holders: What Is the Financial Connection?]((https://doi.org/10.2765/3778099) 
 P Claeys, B Bökemeier, BK Owusu, J Equiza Goni, A Stoian, M Stierle  
-Available at: [DOI: 10.2765/3778099](https://doi.org/10.2765/3778099)  
+
 
 
 ---
