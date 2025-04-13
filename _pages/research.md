@@ -13,12 +13,14 @@ Here is a selection of my research papers:
 ---
 
 [**European Governments’ Fiscal Behaviour and Public Debt Holders: What Is the Financial Connection?**](https://doi.org/10.2765/3778099)
+
 P Claeys, B Bökemeier, **BK Owusu**, J Equiza Goni, A Stoian, M Stierle 
 
 
 ---
 
 [**Assessing nonlinearities and heterogeneity in debt sustainability analysis: a panel spline approach**](https://link.springer.com/article/10.1007/s00181-022-02284-8) 
+
 **B Owusu**, B Bökemeier, A Greiner  
 *Empirical Economics*, **64**(3), 1315–1346, **2023**  
 
@@ -45,7 +47,7 @@ A Greiner, **B Owusu**
 [**Effects of the vaccination against SARS-CoV-2 on infections and on hospitalizations in European countries**](https://link.springer.com/article/10.1007/s43546-023-00445-0)
 
 A Greiner, **B Owusu**,
-*SN Business & Economics*, **3**(3), 67*, **2023** 
+*SN Business & Economics, **3**(3), 67*, **2023** 
 
 ---
 
