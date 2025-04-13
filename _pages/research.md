@@ -10,8 +10,6 @@ author_profile: true
 Here is a selection of my research papers:
 
 
-
-
 ---
 
 ### European Governments’ Fiscal Behaviour and Public Debt Holders: What Is the Financial Connection?  
@@ -40,7 +38,7 @@ Available at: [DOI: 10.2765/3778099](https://doi.org/10.2765/3778099)
 ### How to spend 750 billion euro? Applying sacrifice theory to determine Covid-19 compensations in the EU  
 A Greiner, **B Owusu**  
 *Bielefeld Working Papers in Economics and Management*, **2020**  
-Citations: 4
+
 
 ---
 
