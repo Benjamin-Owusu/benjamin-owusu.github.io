@@ -28,6 +28,7 @@ P Claeys, B Bökemeier, **BK Owusu**, J Equiza Goni, A Stoian, M Stierle
 ---
 
 [**Regime-based debt sustainability analysis: Evidence from euro area economies**](https://www.sciencedirect.com/science/article/pii/S0176268023001027)  
+
 **B Owusu**, B Bökemeier, A Greiner  
 *European Journal of Political Economy*, Article 102458, **2023** 
 
@@ -35,14 +36,15 @@ P Claeys, B Bökemeier, **BK Owusu**, J Equiza Goni, A Stoian, M Stierle
 ---
 
 [**How to spend 750 billion euro? Applying sacrifice theory to determine Covid-19 compensations in the EU**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3634483) 
+
 A Greiner, **B Owusu**  
 *Bielefeld Working Papers in Economics and Management*, **2020**  
 
 ---
 
 [**Effects of the vaccination against SARS-CoV-2 on infections and on hospitalizations in European countries**](https://link.springer.com/article/10.1007/s43546-023-00445-0)
-A Greiner, **B Owusu**,
 
+A Greiner, **B Owusu**,
 *SN Business & Economics*, **3**(3), 67*, **2023** 
 
 ---
