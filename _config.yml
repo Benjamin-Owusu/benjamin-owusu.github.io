@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Benjamin Owusu"
+  #name: "Benjamin Owusu"
   avatar: "/assets/images/bio-photo.jpg"  # <-- Update your avatar if you have one
   bio: "An applied economist with passion for research and data analysis/data science."
   links:
