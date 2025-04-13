@@ -20,24 +20,24 @@ author_profile: true
 
 ---
 ### Work Experience
-#### Postdoctoral Researcher  
-**Bielefeld University, Chair of Economic Policy, Germany**  
+**Postdoctoral Researcher**  
+*Bielefeld University, Chair of Economic Policy, Germany*  
 *April 2025 – Present*
 
 - Teaching duties. Courses include: Applied panel data econometrics and practical tutorials for economic policy  
 - Conduct independent research and collaborate on scientific publications  
 - Mentor graduate and master’s students  
 
-#### Research and Teaching Assistant  
-**Bielefeld University, Chair of Economic Policy, Germany**  
+**Research and Teaching Assistant**  
+*Bielefeld University, Chair of Economic Policy, Germany*  
 *March 2020 – March 2024*
 
 - Provided teaching support for economic policy and macroeconomic courses using R/Python  
 - Performed statistical and econometric analysis for research  
 - Supervised and graded exams and seminar papers  
 
-#### Data Analytics Intern  
-**Matchmetrics GmbH, Bielefeld, Germany**  
+**Data Analytics Intern**  
+*Matchmetrics GmbH, Bielefeld, Germany* 
 *June 2021 – October 2021*
 
 - Analyzed large datasets to derive business insights  
@@ -46,8 +46,8 @@ author_profile: true
 - Wrote sports articles and blog posts  
 - [Matchmetrics Link 1](#) • [Matchmetrics Link 2](#)
 
-#### Supply Chain and Logistics Analyst  
-**TechnipFMC Energy Services, Ghana**  
+**Supply Chain and Logistics Analyst**  
+*TechnipFMC Energy Services, Ghana*  
 *September 2009 – August 2017*
 
 - Coordinated international supply chain planning and delivery  
@@ -67,7 +67,7 @@ author_profile: true
 
 ---
 
-## Other Expertise
+### Other Expertise
 
 - Statistical/econometric modeling: time series, panel data analysis  
 - Machine learning & data analysis with Python (Pandas, NumPy, matplotlib, Scikit-learn, PyTorch)  
@@ -75,12 +75,12 @@ author_profile: true
 
 ---
 
-## Skills
+### Skills
 
-### Computer / Software Skills
+**Computer / Software Skills**
 Python • R • SQL • MATLAB • Excel/PowerPoint • Git/GitHub  
 
-### Language Skills
+**Language Skills**
 - English — Close to native  
 - German — B1 level
 
