@@ -6,6 +6,7 @@ permalink: /teaching/
 
 My teaching experience includes seminars and tutorials for groups ranging from 3 to 20 students at graduate level.
 My teaching statement is available upon request.
+
 ---
 
 
