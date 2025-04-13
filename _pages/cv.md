@@ -4,12 +4,8 @@ permalink: /cv/
 layout: single
 author_profile: true
 ---
-
-
-
-**Address:** Lerchenstraße 65, 33607 Bielefeld, Germany    
+  
 **Email:** [Benny.owusu@gmx.de](mailto:Benny.owusu@gmx.de)  
-
 
 ---
 ### Education
