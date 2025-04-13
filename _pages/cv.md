@@ -13,11 +13,14 @@ author_profile: true
 
 
 ---
+### Education
+- **Ph.D. in Economics (Applied Econometrics)**, Bielefeld University, Germany — *Feb 2024*  
+- **M.Sc. in Economic Policy**, University of Siegen, Germany — *Oct 2019*  
+- **B.A. in Mathematics and Economics**, University of Ghana — *Dec 2008*
 
-
-## Work Experience
-
-### Postdoctoral Researcher  
+---
+### Work Experience
+#### Postdoctoral Researcher  
 **Bielefeld University, Chair of Economic Policy, Germany**  
 *April 2025 – Present*
 
@@ -25,7 +28,7 @@ author_profile: true
 - Conduct independent research and collaborate on scientific publications  
 - Mentor graduate and master’s students  
 
-### Research and Teaching Assistant  
+#### Research and Teaching Assistant  
 **Bielefeld University, Chair of Economic Policy, Germany**  
 *March 2020 – March 2024*
 
@@ -33,7 +36,7 @@ author_profile: true
 - Performed statistical and econometric analysis for research  
 - Supervised and graded exams and seminar papers  
 
-### Data Analytics Intern  
+#### Data Analytics Intern  
 **Matchmetrics GmbH, Bielefeld, Germany**  
 *June 2021 – October 2021*
 
@@ -43,7 +46,7 @@ author_profile: true
 - Wrote sports articles and blog posts  
 - [Matchmetrics Link 1](#) • [Matchmetrics Link 2](#)
 
-### Supply Chain and Logistics Analyst  
+#### Supply Chain and Logistics Analyst  
 **TechnipFMC Energy Services, Ghana**  
 *September 2009 – August 2017*
 
@@ -52,17 +55,10 @@ author_profile: true
 - Reviewed project bids and contracts with project management  
 - Managed shipping/export logistics with internal and external teams  
 
----
-
-## Education
-
-- **Ph.D. in Economics (Applied Econometrics)**, Bielefeld University, Germany — *Feb 2024*  
-- **M.Sc. in Economic Policy**, University of Siegen, Germany — *Oct 2019*  
-- **B.A. in Mathematics and Economics**, University of Ghana — *Dec 2008*
 
 ---
 
-## Other Training
+### Other Training
 
 - **Nanodegree – Machine Learning using PyTorch**, Udacity — *Nov 2024 – Jan 2025*  
 - **Summer School – Modern Topics on Time Series Analysis**, University of Klagenfurt, Austria — *Sep 2024*  
