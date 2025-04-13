@@ -17,7 +17,7 @@ author_profile: true
 ### Work Experience
 **Postdoctoral Researcher**  
 *Bielefeld University, Chair of Economic Policy, Germany*  
-*April 2025 – Present*
+*April 2024 – Present*
 
 **Research and Teaching Assistant**  
 *Bielefeld University, Chair of Economic Policy, Germany*  
