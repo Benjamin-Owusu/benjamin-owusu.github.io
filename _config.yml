@@ -131,8 +131,14 @@ defaults:
       author_profile: true
       header_scripts:
         - /assets/images/css/custom.css
-    sass:
-      style: compressed
+    
+    
+remote_theme: mmistakes/minimal-mistakes
+sass:
+  style: compressed
+# Add this line to include your custom CSS file
+exclude:
+  - "assets/css/custom.css" 
 
 
    
