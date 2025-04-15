@@ -21,5 +21,6 @@ My teaching statement is available upon request.
   Summer and winter semesters: 2023, 2024, 2025
 
 - **Proseminar (scientific writing)**
+  
   Summer semester: 2024 
 
