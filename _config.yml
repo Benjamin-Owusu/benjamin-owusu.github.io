@@ -131,3 +131,8 @@ defaults:
       author_profile: true
       header_scripts:
         - /assets/images/css/custom.css
+    sass:
+      style: compressed
+
+
+   
