@@ -111,3 +111,23 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# Add to _config.yml
+
+# Custom CSS
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      header_scripts:
+        - /assets/images/css/custom.css
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+      header_scripts:
+        - /assets/images/css/custom.css
