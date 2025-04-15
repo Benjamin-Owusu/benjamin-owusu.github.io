@@ -20,7 +20,6 @@ My teaching statement is available upon request.
   *Tutorials, Bielefeld University, Germany*  
   Summer and winter semesters: 2023, 2024, 2025
 
-- **Pro-seminar**
-  *Academic (scientific) writing*
+- **Proseminar (scientific writing)**
   Summer semester: 2024 
 
