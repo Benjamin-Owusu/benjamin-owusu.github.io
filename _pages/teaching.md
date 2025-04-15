@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-My teaching experience includes seminars and tutorials for groups ranging from 3 to 20 students at graduate level.
+My teaching experience includes courses, tutorials and seminars for students at graduate level.
 My teaching statement is available upon request.
 
 ---
@@ -20,5 +20,7 @@ My teaching statement is available upon request.
   *Tutorials, Bielefeld University, Germany*  
   Summer and winter semesters: 2023, 2024, 2025
 
-
+- **Proseminar**
+  *Academic/scientific writing*
+  Summer semester: 2024 
 
