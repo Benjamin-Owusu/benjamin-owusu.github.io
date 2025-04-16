@@ -16,13 +16,11 @@ Prior to applying the machine learning methods, it is necessary to assess and cl
 
 ## Main Steps
 
-### Preprocessing of Data**
+### Preprocessing of Data
   - Assess Missing Data
   - Selection and Re-Encoding Features
   - Creation of a Cleaning Function
-  - 
 ### Feature Transformation
   - Feature Scaling
-  - Dimensionality Reduction (PCA)
-    
+  - Dimensionality Reduction (PCA)    
 ### Clustering
