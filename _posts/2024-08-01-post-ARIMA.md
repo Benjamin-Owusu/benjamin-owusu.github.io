@@ -1,5 +1,5 @@
 ---
-title: "Post: ARIMA"
+title: "German inflation prediction - ARIMA"
 categories:
   - Blog
 tags:
