@@ -1,5 +1,5 @@
 ---
-title: "Post: Unsupersived Learning (Identifying Customer Segments)"
+title: "Unsupersived Learning (Identifying Customer Segments)"
 categories:
   - Blog
 tags:
