@@ -1,0 +1,11 @@
+---
+title: "Basic Stock Analysis in Python"
+categories:
+  - Blog
+tags:
+  - link
+  - Post Formats
+link: https://github.com/Benjamin-Owusu/Stock_analysis/blob/main/Prospective_Stocks.ipynb
+---
+
+In this project, we download a couple of stocks from Yahoo Finance, perform some basic statistical analysis and finally apply a simple trading strategy to ascertain which position to take on the stock (long or short positions)
