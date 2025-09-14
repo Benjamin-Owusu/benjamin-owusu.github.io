@@ -1,5 +1,5 @@
 ---
-title: Fiscal Fundamentals and Sovereign Risk: Signal from a time-varying parameter"
+title: "Fiscal Fundamentals and Sovereign Risk: Signal from a time-varying parameter"
 categories:
   - Blog
 tags:
